@@ -1,0 +1,15 @@
+c:\users\mesna_000\documents\visual studio 2015\Projects\OutsuranceFileProcessor\OutsuranceFileProcessor\bin\Debug\OutsuranceFileProcessor.exe.config
+c:\users\mesna_000\documents\visual studio 2015\Projects\OutsuranceFileProcessor\OutsuranceFileProcessor\bin\Debug\OutsuranceFileProcessor.exe
+c:\users\mesna_000\documents\visual studio 2015\Projects\OutsuranceFileProcessor\OutsuranceFileProcessor\bin\Debug\OutsuranceFileProcessor.pdb
+c:\users\mesna_000\documents\visual studio 2015\Projects\OutsuranceFileProcessor\OutsuranceFileProcessor\obj\Debug\OutsuranceFileProcessor.csprojResolveAssemblyReference.cache
+c:\users\mesna_000\documents\visual studio 2015\Projects\OutsuranceFileProcessor\OutsuranceFileProcessor\obj\Debug\OutsuranceFileProcessor.exe
+c:\users\mesna_000\documents\visual studio 2015\Projects\OutsuranceFileProcessor\OutsuranceFileProcessor\obj\Debug\OutsuranceFileProcessor.pdb
+c:\users\mesna_000\documents\visual studio 2015\Projects\OutsuranceFileProcessor\OutsuranceFileProcessor\bin\Debug\Import\data.csv
+C:\Users\zack.mesnard\Documents\Visual Studio 2015\Projects\OutsuranceFileProcessor\OutsuranceFileProcessor\bin\Debug\OutsuranceFileProcessor.exe.config
+C:\Users\zack.mesnard\Documents\Visual Studio 2015\Projects\OutsuranceFileProcessor\OutsuranceFileProcessor\obj\Debug\OutsuranceFileProcessor.exe
+C:\Users\zack.mesnard\Documents\Visual Studio 2015\Projects\OutsuranceFileProcessor\OutsuranceFileProcessor\obj\Debug\OutsuranceFileProcessor.pdb
+C:\Users\zack.mesnard\Documents\Visual Studio 2015\Projects\OutsuranceFileProcessor\OutsuranceFileProcessor\bin\Debug\Import\data.csv
+C:\Users\zack.mesnard\Documents\Visual Studio 2015\Projects\OutsuranceFileProcessor\OutsuranceFileProcessor\bin\Debug\OutsuranceFileProcessor.exe
+C:\Users\zack.mesnard\Documents\Visual Studio 2015\Projects\OutsuranceFileProcessor\OutsuranceFileProcessor\bin\Debug\OutsuranceFileProcessor.pdb
+C:\Users\zack.mesnard\Documents\Visual Studio 2015\Projects\OutsuranceFileProcessor\OutsuranceFileProcessor\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\zack.mesnard\Documents\Visual Studio 2015\Projects\OutsuranceFileProcessor\OutsuranceFileProcessor\obj\Debug\OutsuranceFileProcessor.csprojResolveAssemblyReference.cache
